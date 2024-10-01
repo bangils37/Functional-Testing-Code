@@ -1,5 +1,5 @@
-# Functional-Testing-Code
-BÁO CÁO BÀI TẬP - KIỂM THỬ VÀ ĐẢM BẢO CHẤT LƯỢNG PHẦN MỀM: KIỂM THỬ CHỨC NĂNG
+# Testing-Code
+BÁO CÁO BÀI TẬP - KIỂM THỬ VÀ ĐẢM BẢO CHẤT LƯỢNG PHẦN MỀM
 
 Họ tên: Nguyễn Bằng Anh  
 Mã sinh viên: 22021101  
